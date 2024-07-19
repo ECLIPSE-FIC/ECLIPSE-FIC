@@ -69,18 +69,15 @@
 - Group A: Seeds 1, 4, 5, 8, 9, 12, 13, 16, 17, 20, 21, 24, 25, 28, 29, 32.
 - Group B: Seeds 2, 3, 6, 7, 10, 11, 14, 15, 18, 19, 22, 23, 26, 27, 30, 31.
 
-4.2. **Playoff Stage:**
-
-| № | Match                                  |
-|:-:|:---------------------------------------|
-| 1 | Group A 1st Place vs Play-In 8th Place |
-| 2 | Group B 4th Place vs Play-In 1st Place |
-| 3 | Group B 2nd Place vs Play-In 5th Place |
-| 4 | Group A 3rd Place vs Play-In 4th Place |
-| 5 | Group B 1st Place vs Play-In 7th Place |
-| 6 | Group A 4th Place vs Play-In 2nd Place |
-| 7 | Group A 2nd Place vs Play-In 6th Place |
-| 8 | Group B 3rd Place vs Play-In 3rd Place |
+4.2. **Playoff Stage Opening Matches:**
+- Group A 1st vs. Play-In 8th
+- Group B 4th vs. Play-In 1st
+- Group B 2nd vs. Play-In 5th
+- Group A 3rd vs. Play-In 4th
+- Group B 1st vs. Play-In 7th
+- Group A 4th vs. Play-In 2nd
+- Group A 2nd vs. Play-In 6th
+- Group B 3rd vs. Play-In 3rd
 
 ## 5. Tournament Schedule
 
