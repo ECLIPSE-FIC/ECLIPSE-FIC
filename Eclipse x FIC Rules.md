@@ -1,0 +1,155 @@
+# ECLIPSE x FIC Season 1 Rules and Regulations
+
+## 1. Participation & Eligibility
+
+1.1. **Eligible Entries:**
+- Must be original 3D text intros. 2D elements and additional modeling as an extra part are allowed, but only the 3D text intro itself will be judged.
+- Maximum duration: 30 seconds (excluding pre-intro and outro).
+- Must not use any third-party assets (projects, packs, models, etc.). Pre-existing personal projects or elements created before the tournament announcement are allowed. Permitted assets include lightrooms, letterpacks, shockwaves, glitches, light leaks and etc.
+
+1.2. **Teams:**
+- Maximum 2 members per team.
+- Additional rules for invited teams are outlined in [Section 3](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#3-direct-invitations).
+
+1.3. **Nickname Usage:**
+- Use only allowed nicknames based on the tournament stage. Abbreviations and combinations are allowed:
+  - Qualification: Organizer's nicknames or the tournament name.
+  - Group & Play-In: Organizer's nicknames or fellow group members' nicknames.
+  - Playoff: Organizer's nicknames or current opponent's nickname.
+
+## 2. Tournament Format
+
+2.1. **Qualification Stage:**
+- Open submissions will be accepted from all eligible Participants.
+- The top 28 highest-scoring Participants will advance to the Group Stage.
+- 4 Participants will bypass this stage via direct invitations as detailed in [Section 3](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#3-direct-invitations).
+
+2.2. **Group Stage:**
+- 32 Participants (28 qualified + 4 directly invited) split into 2 score-based groups (A & B) of 16.
+- Top 4 from each group advance to the Playoff Stage.
+- Participants ranked 5th to 12th in each group advance to the Play-In Stage.
+- Remaining Participants are eliminated.
+
+2.3. **Play-In Stage:**
+- 16 Participants (ranked 5th-12th in their groups) compete in a single score-based group.
+- Top 8 Participants advance to the Playoff Stage.
+
+2.4. **Playoff Stage:**
+- Single-elimination bracket
+- Matchups determined by seeding as detailed in [Section 4](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#4-seeding-and-matchups).
+
+## 3. Direct Invitations
+
+3.1. **Awarded to:**
+- Eclipse Open Champion
+- Eclipse Open Runner-up
+- FIC Season 2 Champion
+- Top-ranked individual on the [FIC Leaderboard](https://docs.google.com/spreadsheets/d/1D-aGSEcsleLN0HCbWQWbfCaXar9zFWaWSkUQzsyQr6M/edit?usp=sharing)
+
+3.2. **Invitation Declination:**
+- Declined FIC invitations will be offered to the next highest-ranked individual on the [FIC Leaderboard](https://docs.google.com/spreadsheets/d/1D-aGSEcsleLN0HCbWQWbfCaXar9zFWaWSkUQzsyQr6M/edit?usp=sharing).
+- Declined ECLIPSE invitations will be offered to another ECLIPSE Open participant at the organizer’s discretion, based on Tournament performance.
+
+3.3. **Team Invitations:**
+- A direct invitation may be accepted by either the entire team or a single member of the eligible team.
+- If only one member accepts the invitation, the remaining team members forfeit their eligibility for a direct invitation and must participate in the Qualification Stage.
+- If a team cannot decide on a single recipient for a direct invitation, the Organizer will select the recipient.
+
+3.4. **Teammate Selection:** Direct invite recipients can choose a teammate who automatically bypasses the Qualification Stage, provided the selected teammate has not already participated in the current season's Qualification Stage.
+
+## 4. Seeding and Matchups
+
+4.1. **Qualification & Group Formation:**
+- Participants will be seeded based on their scores from the Qualification Stage.
+- The top 4 seeds are awarded to direct invitation recipients in this manner:
+  - Seed 1: ECLIPSE Open Champion
+  - Seed 2: FIC Season 2 Champion
+  - Seed 3: ECLIPSE Open Runner-Up
+  - Seed 4: Top-ranked individual on the FIC Leaderboard
+- Group A: Seeds 1, 4, 5, 8, 9, 12, 13, 16, 17, 20, 21, 24, 25, 28, 29, 32.
+- Group B: Seeds 2, 3, 6, 7, 10, 11, 14, 15, 18, 19, 22, 23, 26, 27, 30, 31.
+
+4.2. **Playoff Stage:**
+
+| № | Match                                  |
+|:-:|:---------------------------------------|
+| 1 | Group A 1st Place vs Play-In 8th Place |
+| 2 | Group B 4th Place vs Play-In 1st Place |
+| 3 | Group B 2nd Place vs Play-In 5th Place |
+| 4 | Group A 3rd Place vs Play-In 4th Place |
+| 5 | Group B 1st Place vs Play-In 7th Place |
+| 6 | Group A 4th Place vs Play-In 2nd Place |
+| 7 | Group A 2nd Place vs Play-In 6th Place |
+| 8 | Group B 3rd Place vs Play-In 3rd Place |
+
+## 5. Tournament Schedule
+
+5.1. **Schedule Adherence:** The Organizer will make every effort to adhere to the established Tournament schedule. However, the Organizer reserves the right to modify the schedule if unforeseen circumstances arise. Participants will be notified of any changes in a timely manner.
+
+5.2. **Participant-Caused Delays:** If a participant causes a delay in the submission of their work, their score for the relevant stage will be penalized. The penalty will be a 3.5% deduction from the participant's score for each day the work is late. The total penalty cannot exceed 24.5% of the possible score, even if the work is more than 7 days late.
+
+5.3. **Deadline Time:** All deadlines in this tournament are set for 22:00 UTC+2. This includes the following:
+| Round                | Deadline |
+|:---------------------|:---------|
+|  Qualification Stage | TBA      |
+|  Group Stage         | TBA      |
+|  PlayIn Stage        | TBA      |
+|  Round of 16         | TBA      |
+|  Quarterfinals       | TBA      |
+|  Semifinals          | TBA      |
+|  Grand Final         | TBA      |
+
+## 6. Judging Criteria and Scoring
+
+| Criterion        | Weighting |
+|:-----------------|----------:|
+| Animation        |      1.50 |
+| Color Correction |      1.50 |
+| Effects          |      1.25 |
+| Creativity       |      1.75 |
+| Atmosphere       |      0.75 |
+| Flow             |      0.75 |
+| Background       |      1.00 |
+
+6.1. Judges will score each entry on a 10-point scale for each criterion.
+
+6.2. Each criterion score will be multiplied by its respective weighting factor.
+
+6.3. The weighted scores will be summed to generate a raw score.
+
+6.4. The raw score will be multiplied by a Normalization Coefficient to scale the final score to a 100-point system.
+
+6.5. The final score for an entry will be determined by calculating the arithmetic mean of the normalized scores from all judges.
+
+## 7. Verification & Penalties
+
+7.1 **Project Files:**  The Organizer may request project files to verify originality at any time.
+
+7.2. **Reasonable Suspicion:**  Requests may occur due to:
+- Strong resemblance to existing work.
+- Suspected use of third-party assets.
+- Reports from other participants about potential rule violations.
+
+7.3 **Non-Compliance:** Failure to provide requested files within 48 hours in the specified format will be considered a rule violation, resulting in penalties as outlined in Rule 7.4.
+
+7.4 **Penalties:**  Determined at the organizer's discretion based on the violation's nature and severity. Possible penalties include:
+- Score reduction or ranking adjustment.
+- Prize forfeiture.
+- Disqualification.
+- Temporary or permanent ban from ECLIPSE x FIC tournaments.
+
+## 8. Prize Distribution
+| Place   | $ USD |
+|---------|------:|
+| 1st     |   TBA |
+| 2nd     |   TBA |
+| 3rd-4th |   TBA |
+
+## 9. Final Provisions
+9.1. **Rules Subject to Change:** The tournament organizers reserve the right to modify these rules at their discretion. Participants are responsible for staying informed about any updates.
+
+9.2. **Dispute Resolution:** The tournament organizers have the final say in resolving any disputes. Their decisions are binding on all participants.
+
+9.3. **Communication:** Participants are responsible for regularly checking official tournament communication channels for announcements, updates, and any other important information.
+
+9.4. **Acceptance of Rules:** By participating in any stage of the ECLIPSE x FIC tournament, participants acknowledge that they have read, understood, and agree to abide by these rules. Continued participation constitutes acceptance of any updates to the rules.
