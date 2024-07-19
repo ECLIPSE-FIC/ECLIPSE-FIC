@@ -5,13 +5,16 @@
 1.1. **Eligible Entries:**
 - Must be original 3D text intros. 2D elements and additional modeling as an extra part are allowed, but only the 3D text intro itself will be judged.
 - Maximum duration: 30 seconds (excluding pre-intro and outro).
+- All submitted intros must be original creations specifically for this tournament. Previously created or published work is not eligible.
 - Must not use any third-party assets (projects, packs, models, etc.). Pre-existing personal projects or elements created before the tournament announcement are allowed. Permitted assets include lightrooms, letterpacks, shockwaves, glitches, light leaks and etc.
 
 1.2. **Teams:**
 - Maximum 2 members per team.
 - Additional rules for invited teams are outlined in [Section 3](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#3-direct-invitations).
 
-1.3. **Nickname Usage:**
+1.3. **Organizer Participation:** In the event that the organiser participates in the tournament, they shall relinquish all rights and obligations associated with their role as organiser until the conclusion of the tournament.
+
+1.4. **Nickname Usage:**
 - Use only allowed nicknames based on the tournament stage. Abbreviations and combinations are allowed:
   - Qualification: Organizer's nicknames or the tournament name.
   - Group & Play-In: Organizer's nicknames or fellow group members' nicknames.
@@ -61,11 +64,12 @@
 
 4.1. **Qualification & Group Formation:**
 - Participants will be seeded based on their scores from the Qualification Stage.
-- The top 4 seeds are awarded to direct invitation recipients in this manner:
+- The top 4 seeds are determined by the following::
   - Seed 1: ECLIPSE Open Champion
   - Seed 2: FIC Season 2 Champion
   - Seed 3: ECLIPSE Open Runner-Up
   - Seed 4: Top-ranked individual on the FIC Leaderboard
+- The remaining 28 seeds are allocated to participants who have successfully navigated the qualification stage.
 - Group A: Seeds 1, 4, 5, 8, 9, 12, 13, 16, 17, 20, 21, 24, 25, 28, 29, 32.
 - Group B: Seeds 2, 3, 6, 7, 10, 11, 14, 15, 18, 19, 22, 23, 26, 27, 30, 31.
 
