@@ -6,7 +6,9 @@
 - Must be original 3D text intros. 2D elements and additional modeling as an extra part are allowed, but only the 3D text intro itself will be judged.
 - Maximum duration: 30 seconds (excluding pre-intro and outro).
 - All submitted intros must be original creations specifically for this tournament. Previously created or published work is not eligible.
-- Must not use any third-party assets (projects, packs, models, etc.). Pre-existing personal projects or elements created before the tournament announcement are allowed. Permitted assets include lightrooms, letterpacks, shockwaves, glitches, light leaks and etc.
+- The use of third-party assets (projects, packs, effects, models, etc.) is prohibited.
+  - Exception: Pre-existing personal assets are allowed.
+  - Permitted third-party assets: lightrooms, letterpacks, shockwaves, glitches, light leaks, and similar elements are generally permitted. If you are unsure about a particular asset, please contact the tournament organizers for clarification.
 
 1.2. **Teams:**
 - Maximum 2 members per team.
@@ -14,11 +16,10 @@
 
 1.3. **Organizer Participation:** In the event that the organiser participates in the tournament, they shall relinquish all rights and obligations associated with their role as organiser until the conclusion of the tournament.
 
-1.4. **Nickname Usage:**
-- Use only allowed nicknames based on the tournament stage. Abbreviations and combinations are allowed:
-  - Qualification: Organizer's nicknames or the tournament name.
-  - Group & Play-In: Organizer's nicknames or fellow group members' nicknames.
-  - Playoff: Organizer's nicknames or current opponent's nickname.
+1.4. **Nickname Usage:** Use only allowed nicknames based on the tournament stage. Abbreviations and combinations are allowed.
+- Qualification: Organizer's nicknames or the tournament name.
+- Group & Play-In: Organizer's nicknames or fellow group members' nicknames.
+- Playoff: Organizer's nicknames or current opponent's nickname.
 
 ## 2. Tournament Format
 
@@ -63,15 +64,15 @@
 ## 4. Seeding and Matchups
 
 4.1. **Qualification & Group Formation:**
-- Participants will be seeded based on their scores from the Qualification Stage.
-- The top 4 seeds are determined by the following::
+- The top 4 seeds are determined by the following:
   - Seed 1: ECLIPSE Open Champion
   - Seed 2: FIC Season 2 Champion
   - Seed 3: ECLIPSE Open Runner-Up
   - Seed 4: Top-ranked individual on the FIC Leaderboard
-- The remaining 28 seeds are allocated to participants who have successfully navigated the qualification stage.
-- Group A: Seeds 1, 4, 5, 8, 9, 12, 13, 16, 17, 20, 21, 24, 25, 28, 29, 32.
-- Group B: Seeds 2, 3, 6, 7, 10, 11, 14, 15, 18, 19, 22, 23, 26, 27, 30, 31.
+- The remaining 28 seeds are allocated to participants who have successfully navigated the qualification stage. Participants will be seeded based on their scores.
+- Group Distribution:
+  - Group A: Seeds 1, 4, 5, 8, 9, 12, 13, 16, 17, 20, 21, 24, 25, 28, 29, 32.
+  - Group B: Seeds 2, 3, 6, 7, 10, 11, 14, 15, 18, 19, 22, 23, 26, 27, 30, 31.
 
 4.2. **Playoff Stage Opening Matches:**
 - Group A 1st vs. Play-In 8th
@@ -102,6 +103,7 @@
 
 ## 6. Judging Criteria and Scoring
 
+6.1. Entries will be assessed and scored based on the following criteria:
 | Criterion        | Weighting |
 |:-----------------|----------:|
 | Animation        |      1.50 |
@@ -112,15 +114,12 @@
 | Flow             |      0.75 |
 | Background       |      1.00 |
 
-6.1. Judges will score each entry on a 10-point scale for each criterion.
-
-6.2. Each criterion score will be multiplied by its respective weighting factor.
-
-6.3. The weighted scores will be summed to generate a raw score.
-
-6.4. The raw score will be multiplied by a Normalization Coefficient to scale the final score to a 100-point system.
-
-6.5. The final score for an entry will be determined by calculating the arithmetic mean of the normalized scores from all judges.
+6.2. **Evaluation process:**
+- Judges will score each entry on a 10-point scale for each criterion.
+- Each criterion score will be multiplied by its respective weighting factor.
+- The weighted scores will be summed to generate a raw score.
+- The raw score will be multiplied by a Normalization Coefficient to scale the final score to a 100-point system.
+- The final score for an entry will be determined by calculating the arithmetic mean of the normalized scores from all judges.
 
 ## 7. Verification & Penalties
 
