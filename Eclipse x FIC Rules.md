@@ -40,6 +40,7 @@
 
 2.4. **Playoff Stage:**
 - Single-elimination bracket
+- 3rd and 4th place are determined by the scores of the losing participants in the semi-finals.
 - Matchups determined by seeding as detailed in [Section 4](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#4-seeding-and-matchups).
 
 ## 3. Direct Invitations
