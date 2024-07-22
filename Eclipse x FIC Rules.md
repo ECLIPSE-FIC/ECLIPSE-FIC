@@ -8,10 +8,11 @@
 - All submitted intros must be original creations specifically for this tournament. Previously created or published work is not eligible.
 - The use of third-party assets (projects, packs, effects, models, etc.) is prohibited.
   - Exception: Pre-existing personal assets are allowed.
-  - Permitted third-party assets: lightrooms, letterpacks, shockwaves, glitches, light leaks, and similar elements are generally permitted. If you are unsure about a particular asset, please contact the tournament organizers for clarification.
+  - Commonly available elements like lightrooms, letterpacks, shockwaves, glitches, light leaks, and similar elements are generally permitted. If you are unsure about a particular asset, please contact the tournament organizers for clarification.
 
 1.2. **Teams:**
 - Maximum 2 members per team.
+- Teams must be formed during the Qualification Stage.
 - Additional rules for invited teams are outlined in [Section 3](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#3-direct-invitations).
 
 1.3. **Organizer Participation:** In the event that the organiser participates in the tournament, they shall relinquish all rights and obligations associated with their role as organiser until the conclusion of the tournament.
@@ -59,7 +60,7 @@
 - If only one member accepts the invitation, the remaining team members forfeit their eligibility for a direct invitation and must participate in the Qualification Stage.
 - If a team cannot decide on a single recipient for a direct invitation, the Organizer will select the recipient.
 
-3.4. **Teammate Selection:** Direct invite recipients can choose a teammate who automatically bypasses the Qualification Stage, provided the selected teammate has not already participated in the current season's Qualification Stage.
+3.4. **Teammate Selection:** Direct invite recipients can choose a teammate who automatically bypasses the Qualification Stage, provided the selected teammate has not already participated in the current season's Qualification Stage. The deadline to select a teammate is the same as the Qualification Stage deadline.
 
 ## 4. Seeding and Matchups
 
@@ -118,7 +119,7 @@
 - Judges will score each entry on a 10-point scale for each criterion.
 - Each criterion score will be multiplied by its respective weighting factor.
 - The weighted scores will be summed to generate a raw score.
-- The raw score will be multiplied by a Normalization Coefficient to scale the final score to a 100-point system.
+- The raw score will be multiplied by a Normalization Coefficient (calculated by dividing 10 by the sum of the weighting factors) to scale the final score to a 100-point system.
 - The final score for an entry will be determined by calculating the arithmetic mean of the normalized scores from all judges.
 
 ## 7. Verification & Penalties
