@@ -8,7 +8,7 @@
 - All submitted intros must be original creations specifically for this tournament. Previously created or published work is not eligible.
 - The use of third-party assets (projects, packs, effects, models, etc.) is prohibited.
   - Exception: Pre-existing personal assets are allowed.
-  - Commonly available elements like lightrooms, letterpacks, shockwaves, glitches, light leaks, and similar elements are generally permitted. If you are unsure about a particular asset, please contact the tournament organizers for clarification.
+  - Commonly available elements like lightrooms, letterpacks, shockwaves, overlays and similar elements are generally permitted. If you are unsure about a particular asset, please contact the tournament organizers for clarification.
 
 1.2. **Teams:**
 - Maximum 2 members per team.
