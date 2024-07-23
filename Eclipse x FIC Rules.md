@@ -8,7 +8,7 @@
 - All submitted intros must be original creations specifically for this tournament. Previously created or published work is not eligible.
 - The use of third-party assets (projects, packs, effects, models, etc.) is prohibited.
   - Exception: Pre-existing personal assets are allowed.
-  - Commonly available elements like lightrooms, letterpacks, shockwaves, overlays and similar elements are generally permitted. If you are unsure about a particular asset, please contact the tournament organizers for clarification.
+  - Commonly available assets like lightrooms, letterpacks, shockwaves, overlays and similar elements are generally permitted. If you are unsure about a particular asset, please contact the tournament organizers for clarification.
 
 1.2. **Teams:**
 - Maximum 2 members per team.
@@ -56,7 +56,7 @@
 - Declined ECLIPSE invitations will be offered to another ECLIPSE Open participant at the organizer’s discretion, based on Tournament performance.
 
 3.3. **Team Invitations:**
-- A direct invitation may be accepted by either the entire team or a single member of the eligible team.
+- A direct invitation may be accepted by either the team as a whole or an individual team member, but not both.
 - If only one member accepts the invitation, the remaining team members forfeit their eligibility for a direct invitation and must participate in the Qualification Stage.
 - If a team cannot decide on a single recipient for a direct invitation, the Organizer will select the recipient.
 
