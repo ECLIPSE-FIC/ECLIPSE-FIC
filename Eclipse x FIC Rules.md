@@ -147,10 +147,10 @@
 | 3rd-4th |   TBA |
 
 ## 9. Final Provisions
-9.1. **Rules Subject to Change:** The tournament organizers reserve the right to modify these rules at their discretion. Participants are responsible for staying informed about any updates.
+9.1. **Rules Subject to Change:** The tournament organizers reserve the right to modify these rules at their discretion. Participants will be informed of any rule changes during the season through announcements on the [Discord server](discord.gg/EclipseUnit). Participants are responsible for staying informed about any updates.
 
-9.2. **Dispute Resolution:** The tournament organizers have the final say in resolving any disputes. Their decisions are binding on all participants.
+9.2. **Dispute Resolution:** The tournament organizers have the final say in resolving any disputes. For example, disputes regarding scoring discrepancies or potential rule violations should be submitted in writing to the organizers via direct message on Discord within 24 hours of the issue arising. Their decisions are binding on all participants.
 
-9.3. **Communication:** Participants are responsible for regularly checking official tournament communication channels for announcements, updates, and any other important information.
+9.3. **Communication:** All announcements and communication with the organizers will take place via the [Discord server](discord.gg/EclipseUnit). Participants are responsible for regularly checking official tournament communication channels for announcements, updates, and any other important information.
 
 9.4. **Acceptance of Rules:** By participating in any stage of the ECLIPSE x FIC tournament, participants acknowledge that they have read, understood, and agree to abide by these rules. Continued participation constitutes acceptance of any updates to the rules.
