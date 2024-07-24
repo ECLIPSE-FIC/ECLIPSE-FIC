@@ -22,7 +22,7 @@
 - Group & Play-In: Organizer's nicknames or fellow group members' nicknames.
 - Playoff: Organizer's nicknames or current opponent's nickname.
 
-## 2. Tournament Format
+## 2. Format
 
 2.1. **Qualification Stage:**
 - Open submissions will be accepted from all eligible Participants.
