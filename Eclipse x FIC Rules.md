@@ -112,8 +112,8 @@
 | Effects          |      1.25 |
 | Creativity       |      1.75 |
 | Atmosphere       |      0.75 |
-| Flow             |      0.75 |
-| Background       |      1.00 |
+| Flow             |      1.15 |
+| Background       |      1.20 |
 
 6.2. **Evaluation process:**
 - Judges will score each entry on a 10-point scale for each criterion.
