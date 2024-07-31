@@ -6,9 +6,9 @@
 - Must be original 3D text intros. 2D elements and additional modeling as an extra part are allowed, but only the 3D text intro itself will be judged.
 - Maximum duration: 30 seconds (excluding pre-intro and outro).
 - All submitted intros must be original creations specifically for this tournament. Previously created or published work is not eligible.
-- The use of third-party assets (projects, packs, effects, models, etc.) is prohibited.
-  - Exception: Pre-existing personal assets are allowed.
-  - Commonly available assets like lightrooms, letterpacks, shockwaves, overlays and similar elements are generally permitted. If you are unsure about a particular asset, please contact the tournament organizers for clarification.
+- The use of third-party assets (projects, packs, effects, models, etc.) is prohibited. This includes the use of third-party assets within your own pre-existing projects.
+  - Commonly Available Assets: Lightrooms, letterpacks, shockwaves, overlays, and similar commonly used elements are generally permitted.
+  - If you are unsure about the eligibility of a particular asset, please contact the tournament organizers for clarification before the submission deadline.
 
 1.2. **Teams:**
 - Maximum 2 members per team.
