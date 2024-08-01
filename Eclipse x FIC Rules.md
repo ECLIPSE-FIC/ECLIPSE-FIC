@@ -89,7 +89,7 @@
 
 5.1. **Schedule Adherence:** The Organizer will make every effort to adhere to the established Tournament schedule. However, the Organizer reserves the right to modify the schedule if unforeseen circumstances arise. Participants will be notified of any changes in a timely manner.
 
-5.2. **Participant-Caused Delays:** If a participant causes a delay in the submission of their work, their score for the relevant stage will be penalized. The penalty will be a 3.5% deduction from the participant's score for each day the work is late. The total penalty cannot exceed 24.5% of the possible score, even if the work is more than 7 days late.
+5.2. **Participant-Caused Delays:** Participant-Caused Delays: In the event a Participant causes a delay in the submission of their work, their score for the relevant stage shall be subject to penalty. The penalty shall be calculated as a 3.5% deduction from the Participant's score for each day the work is late, commencing after a one-hour grace period from the specified deadline. The aggregate penalty shall not exceed 24.5% of the possible score, regardless of the duration of the delay.
 
 5.3. **Deadline Time:** All deadlines in this tournament are set for 22:00 UTC+2. This includes the following:
 | Round                | Deadline |
