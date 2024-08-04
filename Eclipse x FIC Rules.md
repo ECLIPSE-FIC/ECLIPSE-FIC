@@ -139,12 +139,12 @@
 - Disqualification.
 - Temporary or permanent ban from ECLIPSE x FIC tournaments.
 
-## 8. Prize Distribution
+## 8. Prizes and payouts
 8.1. **Payout Methods:** Prize payouts shall be primarily disbursed via PayPal. In the event that disbursement through PayPal is not feasible, the following alternative methods, in descending order of preference, shall be employed: bank transfer, Counter-Strike 2 skins, and cryptocurrency.
 
 8.2. **Payout Timing:** While every effort will be made to disburse prize payouts within 7 days following the conclusion of the tournament, the maximum permissible period for prize payout shall not exceed 90 days from the official end date of the tournament.
 
-8.3. **Prize Pool:**
+8.3. **Prize Distribution:**
 
 | Place   | $ USD |
 |---------|------:|
