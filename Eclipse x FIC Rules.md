@@ -2,67 +2,61 @@
 
 ## 1. Participation & Eligibility
 
-1.1. **Eligible Entries:**
-- Must be original 3D text intros. 2D elements and additional modeling as an extra part are allowed, but only the 3D text intro itself will be judged.
-- Maximum duration: 30 seconds (excluding pre-intro and outro).
-- All submitted intros must be original creations specifically for this tournament. Previously created or published work is not eligible.
-- The use of third-party assets (projects, packs, effects, models, etc.) is prohibited. This includes the use of third-party assets within your own pre-existing projects.
-  - Commonly Available Assets: Lightrooms, letterpacks, shockwaves, overlays, and similar commonly used elements are generally permitted.
-  - If you are unsure about the eligibility of a particular asset, please contact the tournament organizers for clarification before the submission deadline.
+1.1. **Eligibility.** Entries must be original 3D text intros (max 30 seconds, excluding pre-intro and outro) created after the tournament announcement. 2D elements and modeling are permitted but will not be judged. No third-party assets allowed, excepting commonly available elements (e.g., lightrooms, letterpacks, shockwaves, overlays). Contact organizers with eligibility questions prior to submission.
 
-1.2. **Teams:**
+1.2. **Teams**
 - Maximum 2 members per team.
 - Teams must be formed during the Qualification Stage.
 - Additional rules for invited teams are outlined in [Section 3](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#3-direct-invitations).
 
-1.3. **Organizer Participation:** In the event that the organiser participates in the tournament, they shall relinquish all rights and obligations associated with their role as organiser until the conclusion of the tournament.
+1.3. **Organizer Participation.** In the event that the organiser participates in the tournament, they shall relinquish all rights and obligations associated with their role as organiser until the conclusion of the tournament.
 
-1.4. **Nickname Usage:** Use only allowed nicknames based on the tournament stage. Abbreviations and combinations are allowed.
+1.4. **Nickname Usage.** Use only allowed nicknames based on the tournament stage. Abbreviations and combinations are allowed.
 - Qualification: Organizer's nicknames or the tournament name.
 - Group & Play-In: Organizer's nicknames or fellow group members' nicknames.
 - Playoff: Organizer's nicknames or current opponent's nickname.
 
-> For example, if the Organizer's nickname is TAYO and a fellow group member's nickname is KARLIE, you could use the combined nickname "TAYLIE".
+> Example: if the Organizer's nickname is "TAYO" and a fellow group member's nickname is "KARLIE", you could use the combined nickname "TAYLIE".
 
 ## 2. Format
 
-2.1. **Qualification Stage:**
+2.1. **Qualification Stage**
 - Open submissions will be accepted from all eligible Participants.
 - The top 28 highest-scoring Participants will advance to the Group Stage.
 - 4 Participants will bypass this stage via direct invitations as detailed in [Section 3](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#3-direct-invitations).
 
-2.2. **Group Stage:**
+2.2. **Group Stage**
 - 32 Participants (28 qualified + 4 directly invited) split into 2 score-based groups (A & B) of 16.
 - Top 4 from each group advance to the Playoff Stage.
 - Participants ranked 5th to 12th in each group advance to the Play-In Stage.
 - Remaining Participants are eliminated.
 
-2.3. **Play-In Stage:**
+2.3. **Play-In Stage**
 - 16 Participants (ranked 5th-12th in their groups) compete in a single score-based group.
 - Top 8 Participants advance to the Playoff Stage.
 
-2.4. **Playoff Stage:**
+2.4. **Playoff Stage**
 - Single-elimination bracket
 - Matchups determined by seeding as detailed in [Section 4](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#4-seeding-and-matchups).
 
 ## 3. Direct Invitations
 
-3.1. **Awarded to:**
+3.1. **Awarded to**
 - Eclipse Open Champion
 - Eclipse Open Runner-up
 - FIC Season 2 Champion
 - Top-ranked individual on the [FIC Leaderboard](https://docs.google.com/spreadsheets/d/1D-aGSEcsleLN0HCbWQWbfCaXar9zFWaWSkUQzsyQr6M/edit?usp=sharing)
 
-3.2. **Invitation Declination:**
+3.2. **Invitation Declination**
 - Declined FIC invitations will be offered to the next highest-ranked individual on the [FIC Leaderboard](https://docs.google.com/spreadsheets/d/1D-aGSEcsleLN0HCbWQWbfCaXar9zFWaWSkUQzsyQr6M/edit?usp=sharing).
 - Declined ECLIPSE invitations will be offered to another ECLIPSE Open participant at the organizer’s discretion, based on Tournament performance.
 
-3.3. **Team Invitations:**
+3.3. **Team Invitations**
 - A direct invitation may be accepted by either the team as a whole or an individual team member, but not both.
 - If only one member accepts the invitation, the remaining team members forfeit their eligibility for a direct invitation and must participate in the Qualification Stage.
 - If a team cannot decide on a single recipient for a direct invitation, the Organizer will select the recipient.
 
-3.4. **Teammate Selection:** Direct invite recipients can choose a teammate who automatically bypasses the Qualification Stage, provided the selected teammate has not already participated in the current season's Qualification Stage. The deadline to select a teammate is the same as the Qualification Stage deadline.
+3.4. **Teammate Selection.** Direct invite recipients can choose a teammate who automatically bypasses the Qualification Stage, provided the selected teammate has not already participated in the current season's Qualification Stage. The deadline to select a teammate is the same as the Qualification Stage deadline.
 
 > For example, a team of two participants is invited, one of them refused the invitation. Another team member now has the right to choose another teammate who will pass the qualification stage.
 
