@@ -22,6 +22,8 @@
 - Group & Play-In: Organizer's nicknames or fellow group members' nicknames.
 - Playoff: Organizer's nicknames or current opponent's nickname.
 
+> For example, if the Organizer's nickname is TAYO and a fellow group member's nickname is KARLIE, you could use the combined nickname "TAYLIE".
+
 ## 2. Format
 
 2.1. **Qualification Stage:**
@@ -61,6 +63,8 @@
 - If a team cannot decide on a single recipient for a direct invitation, the Organizer will select the recipient.
 
 3.4. **Teammate Selection:** Direct invite recipients can choose a teammate who automatically bypasses the Qualification Stage, provided the selected teammate has not already participated in the current season's Qualification Stage. The deadline to select a teammate is the same as the Qualification Stage deadline.
+
+> For example, a team of two participants is invited, one of them refused the invitation. Another team member now has the right to choose another teammate who will pass the qualification stage.
 
 ## 4. Seeding and Matchups
 
