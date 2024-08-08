@@ -89,12 +89,12 @@
 
 5.2 **Participant-Caused Delays.** Participant-Caused Delays: In the event a Participant causes a delay in the submission of their work, their score for the relevant stage shall be subject to penalty. The penalty shall be calculated as a 3.5% deduction from the Participant's score for each day the work is late, commencing after a one-hour grace period from the specified deadline. The aggregate penalty shall not exceed 24.5% of the possible score, regardless of the duration of the delay.
 
-5.3 **Deadline Time.** All deadlines in this tournament are set for 22:00 UTC+2. This includes the following:
+5.3 **Deadline Time.** All deadlines in this tournament are set for 20:00 UTC. This includes the following:
 | Round                | Deadline |
 |:---------------------|:---------|
 |  Qualification Stage | TBA      |
 |  Group Stage         | TBA      |
-|  PlayIn Stage        | TBA      |
+|  Play-In Stage       | TBA      |
 |  Round of 16         | TBA      |
 |  Quarterfinals       | TBA      |
 |  Semifinals          | TBA      |
@@ -138,7 +138,7 @@
 - Temporary or permanent ban from ECLIPSE x FIC tournaments.
 
 ## 8. Prizes and payouts
-8.1 **Payout Methods.** Prize payouts shall be primarily disbursed via PayPal. In the event that disbursement through PayPal is not feasible, the following alternative methods, in descending order of preference, shall be employed: bank transfer, Counter-Strike 2 skins, and cryptocurrency.
+8.1 **Payout Methods.** Prize payouts shall be primarily disbursed via PayPal. In the event that disbursement through PayPal is not feasible, the following alternative methods, in descending order of preference, shall be employed: bank transfer, Counter-Strike 2 skins, and USDT TRC20, BTC.
 
 8.2 **Payout Timing.** While every effort will be made to disburse prize payouts within 7 days following the conclusion of the tournament, the maximum permissible period for prize payout shall not exceed 90 days from the official end date of the tournament.
 
