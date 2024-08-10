@@ -2,7 +2,7 @@
 
 ## 1. Participation & Eligibility
 
-1.1 **Eligibility.** Entries must be original 3D text intros (max 30 seconds, excluding pre-intro and outro) created after the tournament announcement. 2D elements and modeling are permitted but will not be judged. No third-party assets allowed, excepting commonly available elements (e.g., lightrooms, letterpacks, shockwaves, overlays). Contact organizers with eligibility questions prior to submission.
+1.1 **Eligibility.** Entries must be original 3D text intros (max 30 seconds, excluding pre-intro and outro) created after the tournament announcement. 2D elements and modeling are permitted but will not be judged. No third-party assets allowed, excepting overlays, shockwaves, etc. Contact organizers with eligibility questions prior to submission.
 
 1.2 **Teams**
 - Maximum 2 members per team.
