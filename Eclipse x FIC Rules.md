@@ -2,7 +2,7 @@
 
 ## 1. Participation & Eligibility
 
-1.1 **Eligibility.** Entries must be original 3D text intros (max 30 seconds, excluding pre-intro and outro) created after the tournament announcement. 2D elements and modeling are permitted but will not be judged. No third-party assets allowed, excepting overlays, shockwaves, etc. Contact organizers with eligibility questions prior to submission.
+1.1 **Eligibility.** Entries must be original 3D text intros (max 30 seconds, excluding pre-intro and outro) created after the tournament announcement. 2D and modeling are permitted but will not be judged. No third-party assets allowed, excepting overlays, shockwaves, etc. Contact organizers with eligibility questions prior to submission.
 
 1.2 **Teams**
 - Maximum 2 members per team.
@@ -52,9 +52,8 @@
 - Declined ECLIPSE invitations will be offered to another ECLIPSE Open participant at the organizer’s discretion, based on Tournament performance.
 
 3.3 **Team Invitations**
-- A direct invitation may be accepted by either the team as a whole or an individual team member, but not both.
-- If only one member accepts the invitation, the remaining team members forfeit their eligibility for a direct invitation and must participate in the Qualification Stage.
-- If a team cannot decide on a single recipient for a direct invitation, the Organizer will select the recipient.
+- A team of two individuals may be invited to participate in the tournament. Such a team may accept the invitation and compete as a unit. However, should the individuals comprising the team decline to participate together, the invitation shall be extended to only one member of the said team.
+- In the event that the team members are unable to reach a consensus regarding which individual shall receive the invitation, the final determination shall rest solely with the tournament organizer.
 
 3.4 **Teammate Selection.** Direct invite recipients can choose a teammate who automatically bypasses the Qualification Stage, provided the selected teammate has not already participated in the current season's Qualification Stage. The deadline to select a teammate is the same as the Qualification Stage deadline.
 
