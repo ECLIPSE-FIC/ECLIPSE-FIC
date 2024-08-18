@@ -1,6 +1,6 @@
 # ECLIPSE x FIC Season 1 Rules and Regulations
 
-## 1. Participation & Eligibility
+### 1. Participation & Eligibility
 
 1.1 **Eligibility.** Entries must be original 3D text intros (max 30 seconds, excluding pre-intro and outro) created after the tournament announcement. 2D and modeling are permitted but will not be judged. No third-party assets allowed, excepting overlays, shockwaves, etc. Contact organizers with eligibility questions prior to submission.
 
@@ -18,7 +18,7 @@
 
 > Example: If the Organizer's nickname is "TAYO" and a fellow group member's nickname is "KARLIE", you could use the combined nickname "TAYLIE".
 
-## 2. Format
+### 2. Format
 
 2.1 **Qualification Stage**
 - Open submissions will be accepted from all eligible Participants.
@@ -34,12 +34,13 @@
 2.3 **Play-In Stage**
 - 16 Participants (ranked 5th-12th in their groups) compete in a single score-based group.
 - Top 8 Participants advance to the Playoff Stage.
+- Remaining Participants are eliminated.
 
 2.4 **Playoff Stage**
 - Single-elimination bracket
 - Matchups determined by seeding as detailed in [Section 4](https://github.com/snz89/ECLIPSE-FIC/blob/main/Eclipse%20x%20FIC%20Rules.md#4-seeding-and-matchups).
 
-## 3. Direct Invitations
+### 3. Direct Invitations
 
 3.1 **Awarded to**
 - Eclipse Open Champion
@@ -59,7 +60,7 @@
 
 > Example: If a directly invited team member declines their invitation, their remaining teammate may select a replacement who will automatically qualify for the tournament, provided the chosen replacement has not already participated in the current season's Qualification Stage.
 
-## 4. Seeding and Matchups
+### 4. Seeding and Matchups
 
 4.1 **Qualification & Group Formation**
 - The top 4 seeds are determined by the following:
@@ -82,7 +83,7 @@
 - Group A 2nd vs. Play-In 6th
 - Group B 3rd vs. Play-In 3rd
 
-## 5. Tournament Schedule
+### 5. Tournament Schedule
 
 5.1 **Schedule Adherence.** The Organizer will make every effort to adhere to the established Tournament schedule. However, the Organizer reserves the right to modify the schedule if unforeseen circumstances arise. Participants will be notified of any changes in a timely manner.
 
@@ -99,7 +100,7 @@
 |  Semifinals          | TBA      |
 |  Grand Final         | TBA      |
 
-## 6. Judging Criteria and Scoring
+### 6. Judging Criteria and Scoring
 
 6.1 Entries will be assessed and scored based on the following criteria
 | Criterion        | Weighting |
@@ -119,7 +120,7 @@
 - The raw score will be multiplied by a Normalization Coefficient (calculated by dividing 10 by the sum of the weighting factors) to scale the final score to a 100-point system.
 - The final score for an entry will be determined by calculating the arithmetic mean of the normalized scores from all judges.
 
-## 7. Verification & Penalties
+### 7. Verification & Penalties
 
 7.1 **Project Files.** The Organizer may request project files to verify originality at any time.
 
@@ -136,7 +137,7 @@
 - Disqualification.
 - Temporary or permanent ban from ECLIPSE x FIC tournaments.
 
-## 8. Prizes and payouts
+### 8. Prizes and payouts
 8.1 **Payout Methods.** Prize payouts shall be primarily disbursed via PayPal. In the event that disbursement through PayPal is not feasible, the following alternative methods, in descending order of preference, shall be employed: bank transfer, Counter-Strike 2 skins, USDT TRC20, and BTC.
 
 8.2 **Payout Timing.** While every effort will be made to disburse prize payouts within 7 days following the conclusion of the tournament, the maximum permissible period for prize payout shall not exceed 90 days from the official end date of the tournament.
@@ -149,7 +150,7 @@
 | 2nd     |   TBA |
 | 3rd-4th |   TBA |
 
-## 9. Final Provisions
+### 9. Final Provisions
 9.1 **Rules Subject to Change.** The tournament organizers reserve the right to modify these rules at their discretion. Participants will be informed of any rule changes during the season through announcements on the Discord server (https://discord.gg/EclipseUnit). Participants are responsible for staying informed about any updates.
 
 9.2 **Dispute Resolution.** The tournament organizers have the final say in resolving any disputes. For example, disputes regarding scoring discrepancies or potential rule violations should be submitted in writing to the organizers via direct message on Discord within 24 hours of the issue arising. Their decisions are binding on all participants.
