@@ -120,6 +120,8 @@
 - The raw score will be multiplied by a Normalization Coefficient (calculated by dividing 10 by the sum of the weighting factors) to scale the final score to a 100-point system.
 - The final score for an entry will be determined by calculating the arithmetic mean of the normalized scores from all judges.
 
+> Example: A judge scores an entry as follows: Animation 8, Color Correction 7, Effects 9, Creativity 8, Atmosphere 9, Flow 7, Background 8. Multiplying each score by its weight (1.50, 1.50, 1.25, 1.75, 0.75, 1.15, 1.20 respectively) and summing gives a raw score of 72.15. This is then multiplied by the normalization coefficient of 1.0989 (10 divided by the sum of weights, 9.10) to yield a final score of 79.29 out of 100.
+
 6.3 **Tiebreaker Rules.** In the event of a tie in points between two participants, the following tiebreakers will be applied in sequential order:
 - Judges' vote.
 - Rematch.
