@@ -87,7 +87,7 @@
 
 5.1 **Schedule Adherence.** The Organizer will make every effort to adhere to the established Tournament schedule. However, the Organizer reserves the right to modify the schedule if unforeseen circumstances arise. Participants will be notified of any changes in a timely manner.
 
-5.2 **Participant-Caused Delays.** Participant-Caused Delays: In the event a Participant causes a delay in the submission of their work, their score for the relevant stage shall be subject to penalty. The penalty shall be calculated as a 3.5% deduction from the Participant's score for each day the work is late, commencing after a one-hour grace period from the specified deadline. The aggregate penalty shall not exceed 24.5% of the possible score, regardless of the duration of the delay.
+5.2 **Participant-Caused Delays.** In the event a Participant causes a delay in the submission of their work, their score for the relevant stage shall be subject to penalty. The penalty shall be calculated as a 3.5% deduction from the Participant's score for each day the work is late, commencing after a one-hour grace period from the specified deadline. The aggregate penalty shall not exceed 24.5% of the possible score, regardless of the duration of the delay.
 
 5.3 **Deadline Time.** All deadlines in this tournament are set for 20:00 UTC. This includes the following:
 | Round                | Deadline |
@@ -119,6 +119,13 @@
 - The weighted scores will be summed to generate a raw score.
 - The raw score will be multiplied by a Normalization Coefficient (calculated by dividing 10 by the sum of the weighting factors) to scale the final score to a 100-point system.
 - The final score for an entry will be determined by calculating the arithmetic mean of the normalized scores from all judges.
+
+6.3 **Tiebreaker Rules.** In the event of a tie in points between two participants, the following tiebreakers will be applied in sequential order:
+- Judges' vote.
+- Rematch.
+- Higher average score (initial match + rematch).
+- Higher average tournament score (including qualification).
+- Higher previous round score.
 
 ### 7. Verification & Penalties
 
