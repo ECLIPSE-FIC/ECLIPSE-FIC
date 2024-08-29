@@ -89,16 +89,16 @@
 
 5.2 **Participant-Caused Delays.** In the event a Participant causes a delay in the submission of their work, their score for the relevant stage shall be subject to penalty. The penalty shall be calculated as a 3.5% deduction from the Participant's score for each day the work is late, commencing after a one-hour grace period from the specified deadline. The aggregate penalty shall not exceed 24.5% of the possible score, regardless of the duration of the delay.
 
-5.3 **Deadline Time.** All deadlines in this tournament are set for 20:00 UTC. This includes the following:
-| Round                | Deadline |
-|:---------------------|:---------|
-|  Qualification Stage | TBA      |
-|  Group Stage         | TBA      |
-|  Play-In Stage       | TBA      |
-|  Round of 16         | TBA      |
-|  Quarterfinals       | TBA      |
-|  Semifinals          | TBA      |
-|  Grand Final         | TBA      |
+5.3 **Deadline Time**
+| Round         |                        Deadline |
+|---------------|--------------------------------:|
+| Qualification | September 29th, 2024, 20:00 UTC |
+| Group Stage   |   October 14th, 2024, 20:00 UTC |
+| Play-In       |   October 29th, 2024, 20:00 UTC |
+| Round of 16   |  November 13th, 2024, 20:00 UTC |
+| Quarterfinals |  November 28th, 2024, 20:00 UTC |
+| Semifinals    |  December 13th, 2024, 20:00 UTC |
+| Grand Final   |  December 28th, 2024, 20:00 UTC |
 
 ### 6. Judging Criteria and Scoring
 
@@ -153,11 +153,11 @@
 
 8.3 **Prize Distribution**
 
-| Place   | $ USD |
-|---------|------:|
-| 1st     |   TBA |
-| 2nd     |   TBA |
-| 3rd-4th |   TBA |
+| Place | $ USD |
+|-------|-------|
+| 1st   | $60   |
+| 2nd   | $25   |
+| 3rd   | $15   |
 
 ### 9. Final Provisions
 9.1 **Rules Subject to Change.** The tournament organizers reserve the right to modify these rules at their discretion. Participants will be informed of any rule changes during the season through announcements on the Discord server (https://discord.gg/EclipseUnit). Participants are responsible for staying informed about any updates.
