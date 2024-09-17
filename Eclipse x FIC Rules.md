@@ -8,7 +8,7 @@
 
 * Teams are limited to a maximum of two members.
 * Team formation must occur during the Qualification Stage.
-* Specific rules governing invited teams are detailed in Section 3.
+* Specific rules governing invited teams are detailed in [Section 3](#3-direct-invitations).
 
 **1.3 Organizer Participation.** If the organizer chooses to participate in the tournament, they will temporarily relinquish all rights and responsibilities associated with their organizer role until the tournament's conclusion.
 
@@ -27,7 +27,7 @@
 
 * Open submissions will be accepted from all eligible participants.
 * The top 28 participants with the highest scores will advance to the Group Stage.
-* Four participants will bypass this stage through direct invitations, as outlined in Section 3.
+* Four participants will bypass this stage through direct invitations, as outlined in [Section 3](#3-direct-invitations).
 
 **2.2 Group Stage**
 
@@ -45,7 +45,7 @@
 **2.4 Playoff Stage**
 
 * The Playoff Stage will follow a single-elimination bracket format.
-* Matchups will be determined by seeding, as detailed in Section 4.
+* Matchups will be determined by seeding, as detailed in [Section 4](#4-seeding-and-matchups).
 
 
 ### 3. Direct Invitations
