@@ -185,13 +185,24 @@
 | 2nd   | $25   |
 | 3rd   | $15   |
 
+### 9. Tournament Cancellation and Rescheduling
 
-### 9. Final Provisions
+**9.1 Entry Options in Case of Rescheduling.** In the event of tournament cancellation and rescheduling to a new date, participants who have submitted an entry have the following options:
 
-**9.1 Rules Subject to Change.** The tournament organizers reserve the right to modify these rules at their discretion. Participants will be informed of any rule changes during the season through announcements on the Discord server. Participants are responsible for staying updated on any changes.
+* **9.1.1 Retain Existing Entry.** Participants may choose to retain their existing entry for the rescheduled tournament date.
+* **9.1.2 Submit New Entry.** Participants may choose to withdraw their existing entry and submit a new entry when the new tournament date is announced.
 
-**9.2 Dispute Resolution.** The tournament organizers have the final authority in resolving any disputes, such as those regarding scoring discrepancies or potential rule violations. Disputes must be submitted in writing to the organizers via direct message on Discord within 24 hours of the issue arising. The organizers' decisions are binding on all participants.
+**9.2 Team Participation and Entry Management.**
 
-**9.3 Communication.** All announcements and communication with the organizers will be conducted via the Discord server. Participants are responsible for regularly checking official tournament communication channels for announcements, updates, and other important information.
+* **9.2.1 Team Dissolution.** If a team of two participants registered for the original tournament date decides to participate individually or as part of different teams in the rescheduled tournament, both participants must submit new entries.
+* **9.2.2 Retaining Existing Entry for Single Team Member.** If a team of two dissolves and only one member wishes to participate in the rescheduled tournament, that member may retain the existing team entry. This option is only available if the second team member does not intend to participate in the rescheduled tournament. 
 
-**9.4 Acceptance of Rules.** By participating in any stage of the ECLIPSE x FIC tournament, participants acknowledge that they have read, understood, and agree to abide by these rules. Continued participation constitutes acceptance of any updates to the rules.
+### 10. Final Provisions
+
+**10.1 Rules Subject to Change.** The tournament organizers reserve the right to modify these rules at their discretion. Participants will be informed of any rule changes during the season through announcements on the Discord server. Participants are responsible for staying updated on any changes.
+
+**10.2 Dispute Resolution.** The tournament organizers have the final authority in resolving any disputes, such as those regarding scoring discrepancies or potential rule violations. Disputes must be submitted in writing to the organizers via direct message on Discord within 24 hours of the issue arising. The organizers' decisions are binding on all participants.
+
+**10.3 Communication.** All announcements and communication with the organizers will be conducted via the Discord server. Participants are responsible for regularly checking official tournament communication channels for announcements, updates, and other important information.
+
+**10.4 Acceptance of Rules.** By participating in any stage of the ECLIPSE x FIC tournament, participants acknowledge that they have read, understood, and agree to abide by these rules. Continued participation constitutes acceptance of any updates to the rules.
