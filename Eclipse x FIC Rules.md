@@ -187,15 +187,12 @@
 
 ### 9. Tournament Cancellation and Rescheduling
 
-**9.1 Entry Options in Case of Rescheduling.** In the event of tournament cancellation and rescheduling to a new date, participants who have submitted an entry have the following options:
+**9.1 Entry Validity During Postponement.** In the event of tournament cancellation and postponement to an unspecified date, all entries submitted before the initial deadline will remain valid for the rescheduled tournament. Participants will not be required to resubmit their entries.
 
-* **9.1.1 Retain Existing Entry.** Participants may choose to retain their existing entry for the rescheduled tournament date.
-* **9.1.2 Submit New Entry.** Participants may choose to withdraw their existing entry and submit a new entry when the new tournament date is announced.
+**9.2 Entry Invalidation Due to Team Changes.** 
 
-**9.2 Team Participation and Entry Management.**
-
-* **9.2.1 Team Dissolution.** If a team of two participants registered for the original tournament date decides to participate individually or as part of different teams in the rescheduled tournament, both participants must submit new entries.
-* **9.2.2 Retaining Existing Entry for Single Team Member.** If a team of two dissolves and only one member wishes to participate in the rescheduled tournament, that member may retain the existing team entry. This option is only available if the second team member does not intend to participate in the rescheduled tournament. 
+* **9.2.1 Team Composition Changes:** Any alteration to a team's composition, including team dissolution, merging of individual participants into a team, or any other modification, will invalidate the original entry. 
+* **9.2.2 New Entry Requirement:** If a team's composition changes, a new entry must be submitted in accordance with the updated entry guidelines and deadlines for the rescheduled tournament.  
 
 ### 10. Final Provisions
 
