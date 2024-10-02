@@ -186,13 +186,21 @@
 | 2nd   | $25   |
 | 3rd   | $15   |
 
+### 9. Tournament Cancellation and Rescheduling
 
-### 9. Final Provisions
+**9.1 Entry Validity During Postponement.** In the event of tournament cancellation and postponement to an unspecified date, all entries submitted before the initial deadline will remain valid for the rescheduled tournament. Participants will not be required to resubmit their entries.
 
-**9.1 Rules Subject to Change.** The tournament organizers reserve the right to modify these rules at their discretion. Participants will be informed of any rule changes during the season through announcements on the Discord server. Participants are responsible for staying updated on any changes.
+**9.2 Entry Invalidation Due to Team Changes.** 
 
-**9.2 Dispute Resolution.** The tournament organizers have the final authority in resolving any disputes, such as those regarding scoring discrepancies or potential rule violations. Disputes must be submitted in writing to the organizers via direct message on Discord within 24 hours of the issue arising. The organizers' decisions are binding on all participants.
+* **9.2.1 Team Composition Changes:** Any alteration to a team's composition, including team dissolution, merging of individual participants into a team, or any other modification, will invalidate the original entry. 
+* **9.2.2 New Entry Requirement:** If a team's composition changes, a new entry must be submitted in accordance with the updated entry guidelines and deadlines for the rescheduled tournament.  
 
-**9.3 Communication.** All announcements and communication with the organizers will be conducted via the Discord server. Participants are responsible for regularly checking official tournament communication channels for announcements, updates, and other important information.
+### 10. Final Provisions
 
-**9.4 Acceptance of Rules.** By participating in any stage of the ECLIPSE x FIC tournament, participants acknowledge that they have read, understood, and agree to abide by these rules. Continued participation constitutes acceptance of any updates to the rules.
+**10.1 Rules Subject to Change.** The tournament organizers reserve the right to modify these rules at their discretion. Participants will be informed of any rule changes during the season through announcements on the Discord server. Participants are responsible for staying updated on any changes.
+
+**10.2 Dispute Resolution.** The tournament organizers have the final authority in resolving any disputes, such as those regarding scoring discrepancies or potential rule violations. Disputes must be submitted in writing to the organizers via direct message on Discord within 24 hours of the issue arising. The organizers' decisions are binding on all participants.
+
+**10.3 Communication.** All announcements and communication with the organizers will be conducted via the Discord server. Participants are responsible for regularly checking official tournament communication channels for announcements, updates, and other important information.
+
+**10.4 Acceptance of Rules.** By participating in any stage of the ECLIPSE x FIC tournament, participants acknowledge that they have read, understood, and agree to abide by these rules. Continued participation constitutes acceptance of any updates to the rules.
