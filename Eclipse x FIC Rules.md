@@ -46,6 +46,7 @@
 
 * The Playoff Stage will follow a single-elimination bracket format.
 * Matchups will be determined by seeding, as detailed in [Section 4](#4-seeding-and-matchups).
+* 3rd and 4th place will be determined by semi-final scores.
 
 
 ### 3. Direct Invitations
