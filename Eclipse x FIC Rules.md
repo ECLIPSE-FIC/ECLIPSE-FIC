@@ -99,11 +99,16 @@
 * Group B 3rd vs. Play-In 3rd
 
 
-### 5. Tournament Schedule
+### 5. Schedule
 
-**5.1 Schedule Adherence.** The Organizer will strive to adhere to the established tournament schedule. However, the Organizer reserves the right to modify the schedule due to unforeseen circumstances. Participants will be promptly notified of any changes.
+**5.1 **Scheduled Dates and Potential Extensions.** The tournament follows a pre-defined schedule (5.3) for each stage. However, the duration of each stage may be extended at the discretion of the organizers or to accommodate participant requests for additional time.
 
-**5.2 Participant-Caused Delays.** If a participant causes a delay in submitting their work, their score for the relevant stage will be penalized. The penalty will be a 3.5% deduction from the participant's score for each day the work is late, starting after a one-hour grace period from the specified deadline. The total penalty will not exceed 24.5% of the possible score, regardless of the delay's duration.
+**5.2 Deadline Extensions and Participant Communication.**
+
+* **5.2.1 Requesting an Extension.** Participants anticipating difficulty meeting a deadline must inform the organizers and provide an estimated timeframe required to complete their entry. This notification must be received before the official deadline.
+* **5.2.2 Organizer's Decision and Disqualification.** If the organizers decide to extend a stage's deadline, participants who failed to meet the initial deadline and did not request an extension beforehand will be disqualified, even if they could have completed their entry within the extended timeframe. They will not be granted the opportunity to submit their work after the initial deadline has passed.
+
+**5.2 Late Submission Penalty.** If a participant causes a delay in submitting their work, their score for the relevant stage will be penalized. The penalty will be a 3.5% deduction from the participant's score for each day the work is late, starting after a one-hour grace period from the specified deadline. The total penalty will not exceed 24.5% of the possible score, regardless of the delay's duration.
 
 **5.3 Deadline Time**
 
