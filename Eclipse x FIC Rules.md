@@ -101,7 +101,7 @@
 
 ### 5. Schedule
 
-**5.1 **Scheduled Dates and Potential Extensions.** The tournament follows a pre-defined schedule (5.3) for each stage. However, the duration of each stage may be extended at the discretion of the organizers or to accommodate participant requests for additional time.
+5.1 **Scheduled Dates and Potential Extensions.** The tournament follows a pre-defined schedule (5.3) for each stage. However, the duration of each stage may be extended at the discretion of the organizers or to accommodate participant requests for additional time.
 
 **5.2 Deadline Extensions and Participant Communication.**
 
